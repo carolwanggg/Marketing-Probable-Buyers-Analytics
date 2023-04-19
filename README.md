@@ -18,26 +18,24 @@ This data contains 22k records with 9 inputs variables.
 Depend variable is binary: 0 for not buying the products, 1 for buying the products
 
 
-image
+![image](https://user-images.githubusercontent.com/129491801/233119869-d3aaf9e3-e111-4cf2-908d-239a5bb9893e.png)
 
-And there are 2 types of loans: good loans (0) and bad loans (1).
 
-4)Technologies: Tools Used: AWS S3 is used for storage. Alteryx for ETL
 
-3.scoredcard_etl.csv
+4)Technologies: 
 
-image
+Tools Used: Execel, Power BI, Python, Machine Learning
+
 
 Jupyter Notebook is used as IDE. Utilized the credit scoring model via logistic regression classifier in Python. For more details, find in 4.scoredcard modelling.py
 
 For visualization of the plots, Power BI is used.
 
-image
 
 Applied decile methodology to formulate the lending strategy in Excel.
 
-5.scoredcard_model_prediction&analysis.csv
 
-5)Conclusions: https://docs.google.com/spreadsheets/d/1UbgAsNpm1iGDK4LVQYyx39vCST0UI5Ik6tAqTJuKqBs/edit#gid=1180949023
+5)Conclusions: 
 
-image
+![image](https://user-images.githubusercontent.com/129491801/233120978-bbfad782-c924-4383-97c8-228717004457.png)
+
