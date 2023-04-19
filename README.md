@@ -27,15 +27,18 @@ Depend variable is binary: 0 for not buying the products, 1 for buying the produ
 Tools Used: Execel, Power BI, Python, Machine Learning
 
 
-Jupyter Notebook is used as IDE. Utilized the credit scoring model via logistic regression classifier in Python. For more details, find in 4.scoredcard modelling.py
+
+
+Jupyter Notebook is used as IDE. Utilized the probable buyer model via logistic regression classifier in Python
 
 For visualization of the plots, Power BI is used.
 
 
-Applied decile methodology to formulate the lending strategy in Excel.
+Applied decile methodology to formulate the marketing strategy in Excel.
 
 
 5)Conclusions: 
+
 
 ![image](https://user-images.githubusercontent.com/129491801/233120978-bbfad782-c924-4383-97c8-228717004457.png)
 
