@@ -32,6 +32,7 @@ Tools Used: Execel, Power BI, Python, Machine Learning
 Jupyter Notebook is used as IDE. Utilized the probable buyer model via logistic regression classifier in Python
 
 For visualization of the plots, Power BI is used.
+![image](https://user-images.githubusercontent.com/129491801/233613977-53e9abd5-f04f-421b-8ed0-104101bbabb0.png)
 
 
 Applied decile methodology to formulate the marketing strategy in Excel.
